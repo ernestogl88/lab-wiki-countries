@@ -30,3 +30,12 @@
     transform: rotate(360deg);
   }
 }
+
+#list-container{
+  max-height: 90vh; 
+  overflow: scroll;
+}
+
+#td-capital {
+  width: 30%;
+}
